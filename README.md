@@ -1,5 +1,5 @@
 # PrivacyPolicy
-**Click Studio(‘https://github.com/seoyeon1006/CliQPrivacyPolicy’ 이하 ‘Click Studio’)는 이용자의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 다음과 같이 개인정보 처리방침을 수립·공개합니다.**  
+**Click Studio(‘https://github.com/ClickStudio-CliQ’ 이하 ‘Click Studio’)는 이용자의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 다음과 같이 개인정보 처리방침을 수립·공개합니다.**  
 
 **1. 개인정보의 처리 목적**  
 Click Studio 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
